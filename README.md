@@ -1,4 +1,4 @@
-# hacking_kbv2
+# delos
 Deneyimsizler için hacking aracı <br>
 Tüm debian tabanlı sistemlerde çalışır.
 
@@ -29,11 +29,11 @@ Tüm debian tabanlı sistemlerde çalışır.
   * CSRF
   
 # Kurulum
-`git clone https://github.com/delosemre/hacking_kbv2.git` <br>
-`cd hacking_kbv2` <br>
+`git clone https://github.com/delosemre/delos.git` <br>
+`cd delos` <br>
 `sudo python kur.py` <br>
 # Kullanım
-`sudo python hacking_kb.py`
+`sudo python delos.py`
   
 # Görseller
 ![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/kullan%C4%B1c%C4%B1giri%C5%9F.PNG)
@@ -44,9 +44,10 @@ Tüm debian tabanlı sistemlerde çalışır.
   
   # İletişim
 www.kernelblog.org  <br>
-www.forum.kernelblog.org  <br>
+www.en.kernelblog.org  <br>
 info@kernelblog.org  <br>
 delosemre@outlook.com  <br>
 delosemre@delosemre.xyz  <br>
+www.t.me/delosemre  <br>
 www.t.me/kernelblog  <br>
 www.t.me/kernel_blog  <br>
