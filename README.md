@@ -36,11 +36,10 @@ Tüm debian tabanlı sistemlerde çalışır.
 `sudo python delos.py`
   
 # Görseller
-![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/kullan%C4%B1c%C4%B1giri%C5%9F.PNG)
-![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/anamenu.PNG)
-![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/bilgitoplama.PNG)
-![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/zafiyet%20tarama.PNG)
-![](https://raw.githubusercontent.com/delosemre/resimler/master/hacking_kbv2%20resimler/nedir.PNG)
+![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos.png)
+![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos1.png)
+![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos2.png)
+![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos3.png)
   
   # İletişim
 www.kernelblog.org  <br>
