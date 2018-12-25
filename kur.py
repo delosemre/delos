@@ -90,4 +90,4 @@ if secim == "2":
 	print("		\033[1;91mBaşlatılıyor...\033[1;m")
 	print(" ")
 	time.sleep(0.5)
-	os.system("python hacking_kb.py")
+	os.system("python delos.py")
