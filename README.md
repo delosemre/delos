@@ -23,10 +23,6 @@ Tüm debian tabanlı sistemlerde çalışır.
   * Nikto
   * Wapiti
   
- **Web Zafiyetleri Bilgi (Sadece bilgi Verir)**
-  * SQL
-  * XSS
-  * CSRF
   
 # Kurulum
 `git clone https://github.com/delosemre/delos.git` <br>
@@ -42,6 +38,7 @@ Tüm debian tabanlı sistemlerde çalışır.
 ![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos3.png)
   
   # İletişim
+www.emreylmz.com <br>
 www.kernelblog.org  <br>
 www.en.kernelblog.org  <br>
 info@kernelblog.org  <br>
