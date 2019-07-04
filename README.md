@@ -30,6 +30,8 @@ Tüm debian tabanlı sistemlerde çalışır.
 `sudo python kur.py` <br>
 # Kullanım
 `sudo python delos.py`
+# Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sZLFDg7O3oo/0.jpg)](http://www.youtube.com/watch?v=sZLFDg7O3oo "DelosTool")
   
 # Görseller
 ![](https://raw.githubusercontent.com/delosemre/resimler/master/delos/delos.png)
